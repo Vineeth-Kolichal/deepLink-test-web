@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.kettle",
-    "sha256_cert_fingerprints":
-    ["00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kettle.app",
+      "sha256_cert_fingerprints": [
+        "62:8E:D9:08:6D:46:84:25:C3:30:6D:4A:1D:E6:78:1C:6B:66:DD:7D:E0:19:25:87:F7:A4:E5:4E:E8:52:C4:68"
+      ]
+    }
   }
-}]
+]
