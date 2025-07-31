@@ -3,8 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAM_ID.com.example.kettle",
-        "paths": ["*"],
+        "appID": "59296JEP86.com.kettle.dev",
+        "paths": [
+          "*"
+        ],
         "components": [
           {
             "/": "/*",
