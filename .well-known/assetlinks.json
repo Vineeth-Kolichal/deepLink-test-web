@@ -1,14 +1,20 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.kettle.app",
-      "sha256_cert_fingerprints": [
-        "EF:D4:F3:3A:77:3D:B8:E2:17:0C:FA:B8:EF:F2:6F:5F:9D:A7:0F:5E:5C:97:8E:08:B7:E4:B6:59:24:92:00:7D"
-      ]
+{
+  "statements": [
+    {
+      "source": {
+        "web": {
+          "site": "https://kettleweb.vercel.app"
+        }
+      },
+      "relation": "delegate_permission/common.handle_all_urls",
+      "target": {
+        "androidApp": {
+          "packageName": "com.kettle.app",
+          "certificate": {
+            "sha256Fingerprint": "EF:D4:F3:3A:77:3D:B8:E2:17:0C:FA:B8:EF:F2:6F:5F:9D:A7:0F:5E:5C:97:8E:08:B7:E4:B6:59:24:92:00:7D"
+          }
+        }
+      }
     }
-  }
-]
+  ]
+}
