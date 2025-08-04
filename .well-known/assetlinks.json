@@ -17,7 +17,7 @@
     ],
     "target": {
       "namespace": "web",
-      "site": "https://kettle.vercel.app"
+      "site": "https://kettleweb.vercel.app"
     }
   },
   {
