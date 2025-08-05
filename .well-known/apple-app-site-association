@@ -3,17 +3,23 @@
     "apps": [],
     "details": [
       {
-        "appID": "59296JEP86.com.kettle.dev",
+        "appIDs": [
+          "59296JEP86.com.kettle.dev"
+        ],
         "paths": [
           "*"
         ],
         "components": [
           {
-            "/": "/*",
-            "comment": "Matches any URL"
+            "/": "/*"
           }
         ]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "59296JEP86.com.kettle.dev"
     ]
   }
 }
