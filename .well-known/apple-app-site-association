@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "59296JEP86.com.kettle.dev"
+          "8T7AC792ZV.com.kettleweb.app.staging"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "59296JEP86.com.kettle.dev"
+      "8T7AC792ZV.com.kettleweb.app.staging"
     ]
   }
 }
