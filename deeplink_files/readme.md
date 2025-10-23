@@ -1,0 +1,1 @@
+Place the apple-app-site-association and assetlinks.json files inside the .well-known directory so they are accessible at the following URLs: https://kettleweb.com/.well-known/apple-app-site-association and https://kettleweb.com/.well-known/assetlinks.json.
